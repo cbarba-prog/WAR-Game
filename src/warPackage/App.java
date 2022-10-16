@@ -44,7 +44,7 @@ public class App {
 					player2.incrementScore();
 					
 				} else {
-					System.out.println("\nDRAW!");
+					System.out.println("\nDRAW !");
 					player1.incrementScore();
 					player2.incrementScore();
 					}
